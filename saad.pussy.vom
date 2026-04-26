@@ -1,1 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Saad.pussy.com website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f4f4f4;
+        }
 
+        header {
+            background: #333;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+
+        nav {
+            background: #555;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            margin: 10px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            color: yellow;
+        }
+
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+
+        iframe {
+            margin-top: 15px;
+            border-radius: 10px;
+        }
+
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to Saad.pussy.com's Website</h1>
+</header>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#">Videos</a>
+    <a href="#">Contact</a>
+</nav>
+
+<section>
+    <h2>Saad.pussy.com</h2>
+    <p>Ya dekh saad ko</p>
+
+    <iframe width="400" height="225"
+    src="https://www.youtube.com/embed/-KEUpWHiUoc"
+    frameborder="0"
+    allowfullscreen>
+    </iframe>
+
+</section>
+
+<footer>
+    <p>© 2026 Saad Website</p>
+</footer>
+
+</body>
+</html>
